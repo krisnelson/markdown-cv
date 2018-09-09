@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Kristopher A. Nelson
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Kristopher A. Nelson
+PhD Candidate in the History of Science and Science Studies.
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
